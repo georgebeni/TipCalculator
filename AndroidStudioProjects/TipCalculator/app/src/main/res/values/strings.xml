@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="bill">Bill</string>
+    <string name="split_the_bill">Split the bill?</string>
+    <string name="minus">-</string>
+    <string name="persons_1">1</string>
+    <string name="plus">+</string>
+    <string name="calculate_tip">Calculate Tip</string>
+    <string name="total_tip">Total Tip:</string>
+    <string name="total">Total:</string>
+    <string name="tip_per_person">Tip / Person:</string>
+    <string name="total_per_person">Total / Person:</string>
+    <string name="title_activity_splash_screen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="app_icon">App Icon</string>
+    <string name="title_activity_bottom_navigation">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
